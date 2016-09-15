@@ -1,0 +1,167 @@
+id,name,URL,user_cluster,idea_cluster,comment_cluster,vote_cluster,typeOfOrg,orgDomain,orgDomainSec,contributor,country,purpose,purposeSec,objectTopic,objectTopicSec,canAct,archetype,ideas,comments,votes,users,productivity,participation
+10240,Wormhole Idea Factory Ideas,http://wormholeideafactory.ideascale.com,3,3,3,3,community,hobby,games,external,global,feedback,discussion,product,,no,8,78,230,2994,474,0.165,0.675
+10319,Torq Feedback Community,http://avid.torq.ideascale.com,3,3,3,3,business,technology,,external,global,feedback,,product,,yes,1,180,329,2247,259,0.695,0.819
+10373,Shinken Ideas,http://shinken.ideascale.com,1,1,1,3,business,technology,,external,global,feedback,,product,,yes,1,129,235,877,1918,0.067,0.133
+10469,NiUG Feedback Session: Ideas for iMIS,http://niugpac.ideascale.com,3,3,3,3,ngo,technology,,external,global,feedback,,product,services,yes,7,370,228,3067,305,1.213,0.895
+10727,Analytics Link Wish List,http://eal.ideascale.com,5,5,5,5,business,technology,,external,global,feedback,,product,,yes,1,20,11,20,16,1.250,0.750
+11275,snom ONE Ideas,http://snomone.ideascale.com,5,5,5,5,business,technology,,external,global,feedback,,product,,yes,1,103,50,282,46,2.239,0.870
+11334,MN Transportation Research Collaboration Website,http://mndot-lrrb.ideascale.com,1,1,4,1,gov,transportation,,external,local,innovation,,services,,yes,5,319,107,1218,506,0.630,0.601
+11338,Carroll County Times Ideas,http://ideas.carrollcountytimes.ideascale.com,3,3,5,5,business,media,,external,local,feedback,innovation,product,,yes,2,29,5,23,56,0.518,0.536
+11360,Electric Miles,http://nuthatch.ideascale.com,3,3,5,3,business,technology,,external,global,feedback,,product,,yes,1,171,97,660,1342,0.127,0.344
+11415,What's next?,http://textme.ideascale.com,3,3,5,5,business,technology,,external,global,feedback,,product,,yes,1,86,23,493,1910,0.045,0.104
+11496,AwardPro User Group,http://awardpro.ideascale.com,1,1,1,1,business,technology,,external,global,feedback,,product,,yes,1,68,29,148,19,3.579,0.895
+11516,HoCoInnovations,http://hocoinnovations.ideascale.com,5,5,5,5,ngo,education,,internal,local,innovation,,services,,yes,5,42,61,225,51,0.824,0.765
+11663,Resume Builder,http://liresume.ideascale.com,1,1,3,1,business,technology,,external,global,feedback,,product,,yes,1,167,204,1469,1045,0.160,0.602
+11732,Silver Creek Entertainment Ideas,http://silvercreekentertainment.ideascale.com,1,1,1,1,business,technology,entertainment,external,global,feedback,,product,,yes,1,251,453,1527,278,0.903,0.799
+11786,Adobe Captivate Ideas,http://captivateideas.ideascale.com,1,3,3,3,business,technology,,external,global,feedback,,product,,no,1,313,378,3866,410,0.763,0.800
+12651,MCWS Ideas,http://mcws.ideascale.com,3,3,3,5,community,religion,,internal,local,innovation,,services,,yes,8,63,133,462,99,0.636,0.697
+12676,Ideas page,http://ideas.myobatlas.com,2,3,2,3,business,technology,,external,global,feedback,,product,,yes,1,306,671,4027,846,0.362,0.852
+12820,OurCarnoustie Ideas,http://ourcarnoustie.ideascale.com,5,4,5,5,ngo,civic,,external,local,innovation,,services,,no,5,47,73,366,62,0.758,0.742
+12881,Fully Automated Nagios Ideas,http://fan.ideascale.com,1,1,1,2,community,technology,technology,external,global,feedback,,product,,yes,3,46,58,285,117,0.393,0.803
+13016,Prime Ideas,http://prm.ideascale.com,3,3,3,1,business,technology,,external,global,feedback,,product,,yes,1,35,11,26,28,1.250,0.893
+13228,Caixa de idéias - Canto Geek,http://cantogeek.ideascale.com,2,3,2,2,business,technology,entertainment,external,local,feedback,,product,,yes,1,85,41,484,180,0.472,0.800
+13252,E-Verify (old community),http://old-everifycommunity.ideascale.com,3,3,1,3,gov,legal,technology,external,local,innovation,discussion,product,services,yes,6,76,161,1129,293,0.259,0.529
+13292,Album Suggestions,http://thelongplayer.ideascale.com,1,3,5,5,community,social,,external,global,discussion,,other,,no,4,177,9,721,52,3.404,0.692
+13364,PayPlans,http://jpayplans.ideascale.com,1,1,1,2,business,technology,,external,global,feedback,,product,,yes,1,183,178,889,259,0.707,0.876
+13369,Wharton MBA Academic Advisory Board,http://whartonacademicadvisoryboard.ideascale.com,5,3,3,5,community,education,,external,local,feedback,innovation,services,,yes,4,26,55,35,51,0.510,0.294
+13401,Change Jamaica,http://changejamaica.ideascale.com,3,5,5,5,community,civic,,external,local,innovation,,services,,no,4,43,66,189,99,0.434,0.667
+13494,Acunetix Web Vulnerability Scanner feature requests,http://acunetixwvs.ideascale.com,1,1,1,1,business,technology,,external,global,feedback,,product,,yes,1,175,145,622,225,0.778,0.849
+13810,Alberta Co-op Cafe,http://albertacoopcafe.ideascale.com,1,5,3,5,community,financial,,external,local,discussion,innovation,benefits,,no,8,49,22,74,65,0.754,0.631
+14469,RonPaul.com Feedback,http://ronpaul.ideascale.com,2,1,1,1,ngo,political,,external,local,feedback,coordination,other,,yes,6,117,42,227,123,0.951,0.740
+14727,TEMPIO ATTIVA,http://tempioattiva.ideascale.com,3,3,3,3,community,civic,,external,local,innovation,discussion,services,,no,4,22,15,177,38,0.579,0.684
+14754,Alpha Software Features Wishlist,http://alphasoftware.ideascale.com,3,3,5,3,business,technology,,external,global,feedback,,product,,yes,1,236,361,1738,184,1.283,0.929
+14912,Partito Democratico del Friuli Venezia Giulia,http://pdfvg.ideascale.com,3,4,3,3,gov,civic,,internal,local,innovation,,services,,yes,5,36,53,264,66,0.545,0.833
+15065,DC-3 Dreams Astronomy Software,http://dc3.ideascale.com,5,3,5,5,business,retail,,external,local,feedback,,product,,yes,2,89,167,391,57,1.561,0.930
+15106,Madden Online Wishlist,http://maddenonline.ideascale.com,3,3,5,5,community,hobby,,external,global,feedback,,product,,no,8,182,68,1058,170,1.071,0.724
+15133,HR CIP,http://hrcip.ideascale.com,5,2,2,2,business,retail,,internal,local,innovation,,benefits,process,yes,2,52,61,145,19,2.737,0.684
+15157,Panda Community,http://cloudav.ideascale.com,1,1,1,1,business,technology,,external,global,feedback,,product,,yes,1,440,636,7573,3528,0.125,0.255
+15271,Comunidad de Panda Cloud Antivirus,http://pandacloudav.ideascale.com,1,5,5,3,business,technology,,external,local,feedback,,product,,yes,1,46,25,63,38,1.211,0.553
+15468,BEMODEL,http://bemodel.ideascale.com,3,3,5,3,business,retail,,external,local,feedback,,product,services,yes,2,40,38,21,85,0.471,0.506
+15574,VIVO open source collaboration ideas forum,http://vivo.ideascale.com,2,3,2,2,community,technology,,internal,global,feedback,,product,,yes,3,187,69,90,22,8.500,0.727
+15637,Continuous Process Improvement Brainstorm,http://navy.ideascale.com,2,2,2,2,gov,military,,internal,local,innovation,,services,,yes,6,73,57,295,122,0.598,0.844
+15686,NBA 2K Wishlist - Expanded,http://nba2kwishlist.ideascale.com,2,1,2,2,business,technology,entertainment,external,global,feedback,,product,,yes,1,812,1147,11928,1454,0.558,0.662
+15727,RWks Int. Ideas,http://rwks.ideascale.com,5,3,3,5,business,technology,,external,global,feedback,,product,,yes,1,139,122,363,12,11.583,1.000
+15728,SACS Pro,http://tresite.ideascale.com,5,5,3,5,business,technology,,external,global,feedback,,product,,yes,1,69,26,7,5,13.800,0.600
+15889,DanDomain WebShop,http://dandomain.ideascale.com,3,3,3,3,business,technology,,external,local,feedback,,product,,yes,1,743,1441,5134,515,1.443,0.883
+16121,Team ExpertRating,http://expertrating.ideascale.com,2,3,5,3,business,education,legal,internal,global,coordination,discussion,other,,no,2,21,46,108,31,0.677,0.806
+16285,Lync/Skype4B Improvement Suggestions,http://lync.ideascale.com,1,1,1,1,business,technology,,external,global,feedback,,product,,yes,1,484,1048,5545,1402,0.345,0.812
+16409,Hugmyndasamkeppni HR 2013,http://ru.ideascale.com,1,3,4,2,community,technology,,external,global,innovation,discussion,product,services,no,3,112,287,1592,324,0.346,0.790
+16422,GeoVation Challenge,http://challenge.geovation.org.uk,3,1,3,3,ngo,social,civic,external,local,innovation,,services,,yes,5,426,906,2669,2500,0.170,0.597
+16446,FBLA-PBL Innovation Center,http://ideas.fbla-pbl.org,3,1,3,3,ngo,social,,internal,local,coordination,discussion,benefits,services,no,5,73,199,781,166,0.440,0.584
+16511,LibertAria Sassari Viva,http://sassariviva.ideascale.com,5,5,5,5,ngo,civic,,internal,local,innovation,,services,,yes,5,115,220,1350,145,0.793,0.717
+16614,Underscore ideas,http://underscore.ideascale.com,1,3,1,1,business,technology,,external,global,feedback,,product,,yes,1,81,48,119,67,1.209,0.582
+16827,Disaster Apps for iOS,http://ios-disasterapps.ideascale.com,1,1,5,2,community,technology,,external,local,discussion,,product,,no,3,49,7,147,95,0.516,0.568
+17066,Freebox Recorder Feedback,http://freeboxrecorder.ideascale.com,2,2,4,1,business,technology,,external,local,feedback,,product,,yes,1,24,59,162,37,0.649,0.946
+17160,Sterland Ideas Central,http://sterland.ideascale.com,5,3,3,3,business,technology,,internal,global,innovation,feedback,product,services,yes,1,70,180,205,35,2.000,0.743
+17253,Prima Persona,http://inprimapersona.ideascale.com,3,3,3,3,community,political,civic,external,local,discussion,,other,,no,8,81,18,265,102,0.794,0.784
+17306,Blue Link Elite Wishlist/Feedback,http://bluelink.ideascale.com,1,1,1,1,business,technology,,external,global,feedback,,product,,yes,1,209,249,514,37,5.649,0.865
+17786,Decoro Urbano,http://decorourbano.ideascale.com,1,3,1,3,business,technology,civic,external,local,feedback,,product,,yes,1,80,68,1361,243,0.329,0.819
+17953,MoVimento 5 Stelle Verona,http://movimento5stelle-verona.ideascale.com,5,5,5,5,ngo,civic,,internal,local,innovation,,services,,yes,5,186,327,2954,149,1.248,0.812
+18208,MoVimento 5 Stelle S.Giovanni Lupatoto,http://sgl5stelle.ideascale.com,3,5,5,3,ngo,political,civic,internal,local,innovation,,services,,yes,6,28,35,172,34,0.824,0.735
+18279,NBC IdeaFactory,http://nbc.ideascale.com,1,1,1,1,business,media,,external,local,feedback,,services,,yes,2,50,283,1229,1257,0.040,0.545
+18527,Focus on Enforcement,http://bisgov.ideascale.com,3,3,2,3,gov,civic,,external,local,innovation,,services,,yes,5,20,6,33,75,0.267,0.507
+18685,NISO Input Forum,http://niso.ideascale.com,3,5,3,4,ngo,technology,,internal,local,feedback,,services,,yes,7,39,57,245,56,0.696,0.839
+18699,idee per Palermo,http://palermo.ideascale.com,5,5,5,5,gov,civic,,external,local,feedback,innovation,services,,yes,5,226,125,2625,392,0.577,0.765
+18700,FrenchSUG,http://frenchsug.ideascale.com,1,1,3,1,ngo,technology,,internal,local,coordination,,other,,yes,7,322,54,1241,256,1.258,0.867
+18709,IslandGovCamp #IsleGC15,http://islandgovcamp.ideascale.com,5,5,5,5,community,social,,internal,local,coordination,,other,,yes,4,34,93,176,60,0.567,0.617
+18948,idee per Noviglio,http://noviglio.ideascale.com,4,3,4,4,gov,civic,,external,local,innovation,,services,,yes,5,25,101,107,16,1.563,0.875
+18951,Ravaged Ideas Community,http://ravaged.ideascale.com,3,3,5,5,business,technology,entertainment,external,global,feedback,,product,,yes,1,312,533,7973,602,0.518,0.907
+19157,Sage 50 - Canadian Edition,http://sage50canadian.ideascale.com,1,1,1,1,business,technology,financial,external,local,feedback,,product,,yes,1,348,725,2025,691,0.504,0.601
+19337,SecondPrism Feedback,http://secondprism.ideascale.com,3,5,5,3,business,technology,,external,global,feedback,,product,,yes,1,33,27,64,59,0.559,0.373
+19540,Sage 50 –Édition canadienne,http://sage50editioncanadienne.ideascale.com,1,1,4,1,business,technology,,external,local,feedback,,product,,yes,1,181,190,470,191,0.948,0.723
+19834,Imagine Central Arkansas,http://imaginecentralarkansas.ideascale.com,3,5,3,3,ngo,civic,,external,local,innovation,,services,,yes,5,117,197,1850,189,0.619,0.788
+20115,WpgDotNetUg,http://wpgdotnet.ideascale.com,2,1,1,2,community,technology,,internal,global,discussion,,benefits,,no,3,41,17,433,70,0.586,0.914
+20242,MyGov,http://mygov.ideascale.com,5,5,5,5,gov,civic,,external,local,innovation,,services,,yes,5,60,12,72,75,0.800,0.587
+20247,EV supporters,http://electricvehicles.ideascale.com,5,5,3,5,community,technology,,external,local,discussion,,other,,no,3,22,99,217,118,0.186,0.492
+20274,Krafties,http://krafties.ideascale.com,1,1,3,3,business,technology,entertainment,external,global,feedback,,product,,yes,1,438,407,5544,513,0.854,0.864
+20288,HSL Matkustajainformaatio,http://hsl.ideascale.com,2,2,1,2,gov,civic,,external,local,feedback,,services,,yes,5,95,61,60,17,5.588,0.706
+20382,EL 646 Action Plans,http://el646actionplan.ideascale.com,1,1,1,1,community,education,,external,local,discussion,innovation,other,,no,4,55,169,96,64,0.859,0.859
+20391,Agile Play Ground,http://agileplayground.ideascale.com,1,1,3,1,community,education,technology,external,local,coordination,,services,,yes,4,771,262,1264,70,11.014,0.886
+20415,SmAssetMan ideas,http://smassetman.ideascale.com,3,1,2,5,business,technology,,internal,local,feedback,,product,,yes,1,85,73,78,17,5.000,0.765
+20627,Haustrof 2013,http://haustrof.ideascale.com,4,4,3,4,community,education,technology,external,local,coordination,feedback,services,,yes,4,87,55,1979,261,0.333,0.912
+20895,Imagine Huntsville,http://www.imaginehuntsville.com,1,1,1,1,gov,civic,,external,local,innovation,discussion,services,,yes,5,609,2131,7924,1171,0.520,0.526
+20981,Wake Up and Dream,http://wakeupanddream.ideascale.com,5,5,2,3,business,civic,environmental / housing,internal,local,innovation,,services,,yes,2,30,30,95,69,0.435,0.232
+21016,RCE Outreach,http://uspto-outreach.ideascale.com,3,3,2,3,gov,legal,,external,local,feedback,,services,,yes,6,31,39,87,66,0.470,0.621
+21143,AntiCor Tunisia Ideas,http://anticor.ideascale.com,3,3,3,3,ngo,civic,political,external,local,innovation,feedback,services,,yes,5,90,67,411,185,0.486,0.584
+21283,Merentha Improvements,http://merentha.ideascale.com,3,5,5,5,community,technology,entertainment,internal,global,feedback,,product,,yes,3,37,117,237,39,0.949,0.974
+21401,One IT,http://oneit.ideascale.com,3,3,3,3,ngo,education,,internal,local,innovation,,process,,yes,5,32,125,291,70,0.457,0.871
+21425,UM Strategy,http://cesandbox.ideascale.com,2,2,1,1,community,education,,external,local,feedback,innovation,services,,no,4,114,149,921,74,1.541,0.500
+21927,WebWise 2014,http://webwise.ideascale.com,3,3,4,3,gov,education,,external,local,feedback,,services,,yes,5,75,26,812,316,0.237,0.487
+22221,Sibelius Feedback Community,http://sibelius.ideascale.com,3,3,3,3,business,technology,,external,global,feedback,,product,,yes,1,616,1443,9836,659,0.935,0.842
+2224,Rescatar a Lois,http://rescataralois.ideascale.com,2,5,5,5,community,civic,,external,local,innovation,,other,,no,4,204,85,99,565,0.361,0.085
+22244,Dwarfins Suggestions,http://dwarfins.ideascale.com,1,1,3,3,business,technology,entertainment,external,global,feedback,,product,,yes,1,228,440,1995,281,0.811,0.851
+22673,Ideario #umbriadigitale,http://umbriadigitale.ideascale.com,5,5,5,5,gov,civic,,external,local,innovation,,benefits,,yes,5,143,154,1815,556,0.257,0.808
+22755,Martellago Cinque Stelle,http://martellago-m5s.ideascale.com,5,5,5,5,ngo,political,civic,external,local,innovation,discussion,services,,no,6,30,133,123,28,1.071,0.786
+22801,"NitroDesk, Inc.",http://nitrodesk.ideascale.com,2,2,2,2,business,technology,,external,global,feedback,,product,,yes,1,27,8,47,22,1.227,1.000
+23026,WCMC-Q ITS,http://wcmcqits.ideascale.com,5,1,3,3,ngo,education,,internal,local,feedback,innovation,benefits,,yes,5,26,24,71,48,0.542,0.521
+23267,SchoolsFirst Federal Credit Union,http://schoolsfirstfcu.ideascale.com,1,3,3,3,ngo,financial,financial,internal,local,feedback,,benefits,,yes,6,74,58,523,222,0.333,0.730
+23338,Video Poker Duel,http://videopokerduel.ideascale.com,2,3,3,2,business,entertainment,hobby,external,global,feedback,innovation,product,,yes,2,26,23,94,26,1.000,0.692
+23340,E-Verify Listens,http://e-verifylistens.ideascale.com,1,1,1,1,gov,technology,legal,external,local,feedback,,product,,yes,7,177,392,2445,552,0.321,0.522
+23465,OSEHRA,http://osehra.ideascale.com,1,1,1,1,business,technology,,external,global,feedback,,product,,yes,1,29,103,208,22,1.318,0.909
+23485,ATS Online Marketplace for iMIS,http://atsstore.ideascale.com,1,1,4,1,business,technology,,external,global,feedback,,product,,yes,1,64,37,194,44,1.455,0.818
+23601,Open Data Project,http://ssa-ideas.ideascale.com,4,4,4,4,gov,technology,,external,local,feedback,,services,,yes,7,79,125,578,383,0.206,0.358
+24010,Politica Oltre,http://politicaoltre.ideascale.com,1,3,3,3,ngo,political,,external,local,innovation,discussion,services,,no,6,50,59,323,72,0.694,0.847
+24019,User Community,http://weathermatic.ideascale.com,3,1,5,3,business,technology,education,internal,local,feedback,,product,services,yes,1,83,80,359,52,1.596,0.654
+2416,mojomojo,http://mojomojo.ideascale.com,2,3,2,2,community,technology,,internal,global,feedback,,product,,yes,3,71,46,229,1307,0.054,0.046
+24238,Fairfax County Department of Transportation,http://fairfaxcountydot.ideascale.com,5,5,5,5,gov,transportation,,external,local,innovation,,services,,yes,5,24,41,295,82,0.293,0.878
+24427,The VMware Log Insight Community,http://loginsight.vmware.com,1,1,1,1,business,technology,,external,global,feedback,,product,,yes,1,141,287,692,738,0.191,0.172
+24509,The Beerenberg Family Farm,http://beerenberg.ideascale.com,1,1,2,1,business,retail,,external,local,feedback,,product,,yes,2,28,40,109,81,0.346,0.765
+24761,Signavio Ideenportal,http://ideas.signavio.com,1,1,1,1,business,technology,,external,local,feedback,,product,,yes,1,243,218,1695,211,1.152,0.900
+24888,ideaUmbria,http://ideaumbria.ideascale.com,3,3,2,3,ngo,civic,,external,local,innovation,,services,,yes,5,21,52,111,67,0.313,0.672
+2530,Lietuva,http://lietuva.ideascale.com,2,5,5,3,community,civic,,external,local,innovation,discussion,services,,no,4,33,56,142,418,0.079,0.182
+25436,Rescreatu Development,http://rescreatu.ideascale.com,5,5,5,5,community,technology,,external,global,feedback,,product,,yes,3,152,519,4407,183,0.831,0.869
+2549,Personalberatungen,http://umantis-labs.pb.ideascale.com,1,3,3,3,business,technology,,external,local,feedback,,product,,yes,1,281,170,2221,156,1.801,0.904
+25501,Atomic Learning Think Tank,http://ideas.atomiclearning.com,1,1,1,2,business,technology,,external,global,feedback,,product,,yes,1,355,177,1369,323,1.099,0.653
+2582,Ehemaligenmanagement,http://umantis-labs.em.ideascale.com,3,3,5,3,business,technology,,external,local,feedback,,product,,yes,1,83,18,448,21,3.952,0.857
+26090,ASSUM,http://assum.ideascale.com,5,1,3,3,business,technology,,internal,local,innovation,,services,,yes,1,144,56,281,9,16.000,0.778
+26194,openpuertorico,http://openpuertorico.ideascale.com,2,2,2,2,ngo,civic,technology,external,local,innovation,coordination,services,,yes,5,47,18,274,90,0.522,0.756
+26233,data.gov.au,http://datagovau.ideascale.com,1,3,1,3,gov,civic,,external,local,feedback,,services,,yes,5,126,259,830,430,0.293,0.784
+26290,Validator Community,http://validator.ideascale.com,1,1,3,3,community,technology,,internal,global,feedback,,product,,yes,3,28,23,61,25,1.120,0.840
+26362,Ideenportal zur eCH-Prozessplattform – www.ech-bpm.ch,http://ech-bpm1.ideascale.com,5,5,5,5,gov,technology,,external,global,feedback,,product,,yes,7,32,33,77,124,0.258,0.129
+26587,Space Engineers Suggestion box,http://spaceengineerssurgestionbox.ideascale.com,1,1,1,3,business,technology,entertainment,external,global,feedback,,product,,yes,1,403,589,10325,647,0.623,0.909
+26593,Mitgliederdatenbank,http://midata.ideascale.com,1,1,4,1,ngo,social,,internal,local,feedback,,product,,yes,5,104,139,444,66,1.576,0.924
+2672,PTC Media Ideas,http://ptcmedia.ideascale.com,1,3,3,2,ngo,entertainment,,internal,local,feedback,,services,,yes,8,33,43,314,112,0.295,0.732
+26782,FikrimVar,http://fikrimvar.ideascale.com,2,2,2,2,ngo,education,education,external,local,feedback,,services,,yes,5,77,109,478,491,0.157,0.086
+27136,iGlobe CRM for Office 365,http://iglobecrm.ideascale.com,3,3,1,3,business,technology,,external,global,feedback,,product,,yes,1,35,12,48,8,4.375,1.000
+27183,OBS Book Club,http://obsbookclub.ideascale.com,3,1,5,3,community,hobby,technology,external,global,discussion,feedback,other,,no,8,46,8,274,33,1.394,0.758
+27207,Microsoft Exchange Improvement Suggestions,http://exchange.ideascale.com,5,3,5,5,community,technology,,external,global,feedback,,product,,no,3,96,181,1036,383,0.251,0.778
+27351,WCMC Ideas,http://wcmcits.ideascale.com,3,2,2,2,ngo,education,,internal,local,feedback,,services,,yes,5,222,427,1629,184,1.207,0.929
+27955,Weyforward,http://weyforward.ideascale.com,3,3,3,3,community,civic,,external,local,innovation,discussion,services,,no,4,85,145,909,257,0.331,0.774
+28136,LiveSplit,http://livesplit.ideascale.com,1,3,3,3,ngo,technology,,external,global,feedback,,product,,yes,7,100,58,580,266,0.376,0.801
+28145,My AQHA Idea,http://aqha.ideascale.com,1,1,1,1,business,technology,hobby,external,local,feedback,,product,services,yes,1,248,1274,6144,907,0.273,0.746
+3004,Tapestry 5 Caffe,http://tapestry5.ideascale.com,1,5,3,3,community,technology,,internal,global,feedback,,product,,yes,3,32,15,106,66,0.485,0.530
+30879,API Developers Forum,http://apiforum.ideascale.com,1,1,1,2,gov,technology,,external,local,feedback,,services,,yes,7,281,681,523,1081,0.260,0.243
+3166,Idéias para o Busca Descontos,http://buscadescontos.ideascale.com,1,5,1,1,business,food,,external,local,feedback,,services,,yes,2,39,7,63,174,0.224,0.167
+3339,IdeaScale Feedback,http://ideas.ideascale.com,1,1,3,1,business,technology,,external,global,feedback,innovation,product,,yes,1,1018,760,2928,1673,0.608,0.319
+3533,RDS Logic Ideas,http://rdslogic.ideascale.com,2,3,3,2,business,technology,,external,global,feedback,,product,,yes,1,64,26,209,22,2.909,0.773
+3581,Sim Dynasty Ideas,http://simdynasty.ideascale.com,3,3,3,3,business,technology,entertainment,external,global,feedback,,product,,yes,1,605,1129,24326,435,1.391,0.929
+3700,Blue Carpet,http://bluecarpet.ideascale.com,2,2,2,2,business,technology,,external,local,feedback,,product,,yes,1,124,7,66,13,9.538,0.538
+3820,Work Better. More Life.,http://methodus.ideascale.com,5,4,4,3,business,technology,,internal,local,innovation,discussion,services,product,yes,1,162,78,404,55,2.945,0.782
+393,QuestionPro Feedback via IdeaScale,http://questionpro.ideascale.com,1,3,3,3,business,technology,,external,global,feedback,,product,,yes,1,502,382,4387,1010,0.497,0.523
+4022,Ricoh Latin America Ideas,http://ricohlatinamerica.ideascale.com,3,3,5,5,business,technology,,external,global,feedback,,product,,yes,1,31,41,107,130,0.238,0.585
+4230,Feedback on Making Speeches Talk,http://commentneelie.ideascale.com,1,1,4,1,community,civic,,external,local,feedback,,product,,yes,4,21,5,8,261,0.080,0.061
+4275,MicroPoll Feedback,http://micropoll.ideascale.com,3,5,5,5,business,technology,,external,global,feedback,,product,,yes,1,49,11,37,50,0.980,0.780
+4287,Idea Management Tool,http://xybersolutions.ideascale.com,3,2,5,2,business,technology,,internal,local,innovation,,services,,yes,1,279,92,315,63,4.429,0.524
+4318,Educação e a Web 2.0 - PPGI,http://w2eppgi.ideascale.com,3,5,5,5,community,education,,internal,local,coordination,discussion,services,,yes,4,122,70,380,239,0.510,0.184
+4760,National Digital Stewardship Alliance: Join the national discussion,http://ndsa.ideascale.com,5,5,5,5,gov,education,document preservation / library,internal,local,innovation,coordination,services,process,yes,5,38,81,182,70,0.543,0.786
+5111,US Educational Broadband Planning,http://usbroadband4ed.ideascale.com,5,5,5,5,gov,education,technology,external,local,innovation,discussion,services,,yes,5,25,30,48,70,0.357,0.500
+5162,VENUE: A Revolution in Live Sound,http://avid.venue.ideascale.com,3,3,3,3,business,technology,,external,global,feedback,,product,,yes,1,451,859,8986,594,0.759,0.808
+5340,Crowdsourcing Theology,http://crowdsourcingmission.ideascale.com,4,4,4,4,ngo,religion,,external,global,discussion,,other,,no,8,68,22,171,91,0.747,0.604
+5883,Google Analytics - ideas & new features,http://google-analytics.ideascale.com,5,5,5,3,business,technology,,external,global,feedback,,product,,yes,1,34,13,81,105,0.324,0.552
+5993,SGA,http://sga.ideascale.com,3,3,5,5,community,education,,external,local,feedback,,benefits,,yes,4,32,34,240,260,0.123,0.865
+6596,VegGuide Ideas & Bugs,http://vegguide.ideascale.com,5,5,5,5,community,social,,internal,global,feedback,,product,,yes,4,25,18,43,6,4.167,0.833
+7001,How to Change Detroit,http://charlespugh.ideascale.com,3,3,5,5,ngo,political,civic,external,local,innovation,,services,benefits,no,6,28,14,93,150,0.187,0.293
+7108,Imonggo Ideas,http://imonggo.ideascale.com,5,5,5,5,business,technology,,external,global,feedback,,product,,yes,1,167,160,709,231,0.723,0.775
+7283,MAS90 Top New Features By Version,http://mas90.ideascale.com,5,5,5,5,business,technology,,external,global,feedback,,product,,no,1,46,12,350,43,1.070,0.721
+7886,A Capital Idea,http://capgaz.ideascale.com,3,3,5,5,business,media,,external,local,feedback,,product,services,yes,2,101,63,546,298,0.339,0.466
+8423,RetailMeNot.com Community Ideas,http://retailmenot.ideascale.com,3,3,5,5,business,technology,,external,global,feedback,,product,,yes,1,309,208,1193,736,0.420,0.370
+8531,VTA Ideas,http://vta.ideascale.com,3,3,5,2,business,technology,transportation,external,local,feedback,,services,,yes,1,233,215,825,214,1.089,0.724
+8960,LogicMonitor  Ideas,http://logicmonitor.ideascale.com,1,1,3,1,business,technology,,external,global,feedback,,product,,yes,1,42,43,56,15,2.800,0.867
+9082,KnitMinder Ideas,http://knitminder.ideascale.com,3,5,3,5,business,technology,,external,global,feedback,,product,,yes,1,37,17,340,317,0.117,0.347
+9092,Help Smart Db Ideas,http://helpsmartdb.ideascale.com,1,3,3,3,community,technology,,internal,global,feedback,,product,,yes,3,61,19,66,9,6.778,0.778
+9340,Trademark Policy Collaboration Site,http://uspto-tmep.ideascale.com,1,1,1,1,gov,legal,,external,local,feedback,,services,,yes,6,665,427,662,228,2.917,0.474
+9343,Entando - Ideas,http://japsplatform.ideascale.com,3,3,5,5,business,technology,,external,global,feedback,,product,,yes,1,28,11,56,18,1.556,0.944
+9554,My Sanga Idea,http://ipbys.ideascale.com,5,5,5,5,ngo,religion,,internal,local,discussion,feedback,services,,yes,8,75,221,399,108,0.694,0.796
+9733,FillLPG Ideas,http://filllpg.ideascale.com,1,1,4,1,ngo,technology,,external,local,feedback,,product,,yes,7,92,230,203,186,0.495,0.548
+9751,Learning Registry,http://learningregistry.ideascale.com,3,5,5,3,gov,education,technology,external,local,innovation,,product,services,yes,5,41,60,82,101,0.406,0.554
+9869,Uptown Solutions,http://uptownsolutions.ideascale.com,5,5,5,5,community,civic,,external,local,innovation,,services,,no,4,24,51,209,59,0.407,0.729
